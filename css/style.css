@@ -9,3 +9,7 @@ body {
 img{
     border: 10px solid goldenrod;
 }
+
+h1{
+    border: 5px dashed darkred;
+}
