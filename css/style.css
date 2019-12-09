@@ -13,3 +13,12 @@ img{
 h1{
     border: 5px dashed darkred;
 }
+blockquote{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    font-style: italic;
+    text-align:  center;
+}
+cite{
+    font-size: 1rem;
+}
