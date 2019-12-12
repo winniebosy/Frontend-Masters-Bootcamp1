@@ -35,6 +35,10 @@ cite{
     font-size: 1.3rem;
     text-align:center;
 }
+#title{
+    color: forestgreen;
+    font-size: 4rem;
+}
 a:link{
     font-weight: bolder;
     text-decoration: none;
