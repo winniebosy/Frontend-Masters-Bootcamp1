@@ -35,3 +35,28 @@ cite{
     font-size: 1.3rem;
     text-align:center;
 }
+#title{
+    color: forestgreen;
+    font-size: 4rem;
+}
+a:link{
+    font-weight: bolder;
+    text-decoration: none;
+    color: fuchsia;
+    font-size: 1.5rem;
+}
+a:visited{
+color:green;
+font-weight:normal;
+
+}
+a:active{
+
+
+}
+a:hover{
+    color: orange;
+    text-decoration: dotted;
+    
+
+}
