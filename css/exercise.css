@@ -1,4 +1,7 @@
-
+*{
+    background:darkslategrey;
+    color:white;
+}
 
 img{
     width:100vw;
@@ -6,3 +9,4 @@ img{
 
 
 }
+.introduction
