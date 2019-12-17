@@ -3,3 +3,6 @@ div{
     margin-bottom: 2rem;
     padding: 1rem;
 }
+a{
+    border: 2px dotted brown;
+}
