@@ -1,6 +1,14 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
 }
-nav ul{
-    list-style-type: none;
+
+
+.navigation ul{
+    display: flex;
+    justify-content: center;
+    flex-flow: row wrap'
+     list-style-type: none;
+   
 }
+   
+
