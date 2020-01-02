@@ -6,9 +6,13 @@ body{
 .navigation ul{
     display: flex;
     justify-content: center;
-    flex-flow: row wrap'
-     list-style-type: none;
+    flex-flow: row wrap;
+    justify-content: space-around;
+     
    
+}
+ul{
+    list-style-type:none;
 }
    
 
