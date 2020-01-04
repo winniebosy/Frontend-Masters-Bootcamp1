@@ -4,7 +4,7 @@ body{
     
 }
 .hero, .is-fullheight{
-    background: linear-gradient(to bottom, rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+    background: linear-gradient(to bottom, rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
     url("/images/hero1-image.jpg");
     background-repeat: no-repeat;
     background-position: center center;
@@ -26,8 +26,7 @@ body{
     font-family: 'Aguafina Script', cursive;
     color:rgba(255,255,255);
     font-size: 8rem;
-    padding: 8rem;
-}
+    
 /* for screens with a max widht of 720px */
 @media(max-width:720px){
 
@@ -36,7 +35,23 @@ body{
         font-family: 'Aguafina Script', cursive;
         color:rgba(255,255,255);
         font-size: 4.5rem;
-        padding: 8rem;
+        
     }
+}
+
+.subtitle{
+    color:rgba(255,255,255);
+    font-size: 1.6rem;
+    
+    
+}
+.container{
+    display:flex;
+   flex-wrap: wrap;
+    justify-content: flex-end;
+    padding:4rem;
+}
+.img{
+    width:10px;
 }
 
