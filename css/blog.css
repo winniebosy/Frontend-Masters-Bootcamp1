@@ -22,3 +22,21 @@ body{
 .navbar-item{
     color:rgba(255,255,255);
 }
+.title{
+    font-family: 'Aguafina Script', cursive;
+    color:rgba(255,255,255);
+    font-size: 8rem;
+    padding: 8rem;
+}
+/* for screens with a max widht of 720px */
+@media(max-width:720px){
+
+
+    .title{
+        font-family: 'Aguafina Script', cursive;
+        color:rgba(255,255,255);
+        font-size: 4.5rem;
+        padding: 8rem;
+    }
+}
+
