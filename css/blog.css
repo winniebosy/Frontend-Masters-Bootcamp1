@@ -26,8 +26,9 @@ body{
     font-family: 'Aguafina Script', cursive;
     color:rgba(255,255,255);
     font-size: 8rem;
+}
     
-/* for screens with a max widht of 720px */
+/* for screens with a max width of 720px */
 @media(max-width:720px){
 
 
@@ -39,13 +40,7 @@ body{
     }
 }
 
-.subtitle{
-    color:rgba(255,255,255);
-    font-size: 1.6rem;
-    
-    
-}
-.container{
+.container-image{
     display:flex;
    flex-wrap: wrap;
     justify-content: flex-end;
