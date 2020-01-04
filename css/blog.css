@@ -1,9 +1,24 @@
-.body{
+body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
 }
 .hero, .is-fullheight{
-    background: url("/images/");
+    background:
+    url("/images/hero1-image.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
+    max-width: 100%;
+    /*#5e073285*/
+    /*#0478e5*/
+}
+.navbar-menu{
+    font-size: 1.5rem;
+   
+
+    
+}
+.navbar-item{
+    color:rgba(255,255,255);
 }
