@@ -5,9 +5,7 @@ body{
 
 .navigation ul{
     display: flex;
-    justify-content: center;
-    flex-flow: row wrap;
-    justify-content: space-around;
+    
      
    
 }
