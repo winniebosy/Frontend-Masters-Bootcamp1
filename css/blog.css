@@ -1,0 +1,9 @@
+.body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.hero, .is-fullheight{
+    background: url("/images/");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
