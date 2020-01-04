@@ -8,3 +8,5 @@ This is a frontend masters bootcamp on html5
 * Creating Accessible links
 * Images
 * HTML lists
+* CSS basics
+* Flexbox
