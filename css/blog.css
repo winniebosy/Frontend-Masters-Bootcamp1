@@ -1,11 +1,11 @@
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    
+    background: #131313;
     
 }
 .hero, .is-fullheight{
-    background: linear-gradient(to bottom, rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
-    url("/images/hero1-image.jpg");
+    background: linear-gradient(to bottom, rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+    url("/images/background-photo.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -21,11 +21,12 @@ body{
 }
 .navbar-item{
     color:rgba(255,255,255);
+    font-family: 'Open Sans Condensed', sans-serif;    
 }
 .title{
-    font-family: 'Aguafina Script', cursive;
+    font-family: 'Open Sans Condensed', sans-serif;
     color:rgba(255,255,255);
-    font-size: 8rem;
+    font-size: 7rem;
 }
     
 /* for screens with a max width of 720px */
@@ -33,20 +34,43 @@ body{
 
 
     .title{
-        font-family: 'Aguafina Script', cursive;
+        font-family: 'Open Sans Condensed', sans-serif;
         color:rgba(255,255,255);
-        font-size: 4.5rem;
+        font-size: 4rem;
         
     }
+}
+.subtitle{
+    font-family: 'Montserrat Subrayada', sans-serif;
+    color:rgba(255,255,255);
 }
 
 .container-image{
     display:flex;
    flex-wrap: wrap;
     justify-content: flex-end;
-    padding:4rem;
+    padding:4em;
 }
-.img{
-    max-width:10px;
+hr{
+    width:12rem;
 }
+h2{
+    font-size:4rem;
+    margin: 1em;
+}
+.image-mount{
+    
 
+}
+.subhead{
+    color:rgba(255,255,255);
+    font-size: 1.4rem;
+    line-height: 2.2rem;
+
+}
+.subhead::first-letter {
+    initial-letter: 2;
+    font-size: 4em;
+    color: #40dd62;
+    margin: 0.1em .1em 0 0;
+}
