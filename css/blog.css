@@ -50,6 +50,9 @@ body{
     justify-content: flex-end;
     padding:4rem;
 }
+hr{
+    width:12rem;
+}
 .img{
     max-width:10px;
 }
