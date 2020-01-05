@@ -23,9 +23,9 @@ body{
     color:rgba(255,255,255);
 }
 .title{
-    font-family: 'Anton', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
     color:rgba(255,255,255);
-    font-size: 8rem;
+    font-size: 7rem;
 }
     
 /* for screens with a max width of 720px */
@@ -35,7 +35,7 @@ body{
     .title{
         font-family: 'Montserrat Subrayada', sans-serif;
         color:rgba(255,255,255);
-        font-size: 4.5rem;
+        font-size: 4rem;
         
     }
 }
