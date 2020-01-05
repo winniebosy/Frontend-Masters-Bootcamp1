@@ -21,6 +21,7 @@ body{
 }
 .navbar-item{
     color:rgba(255,255,255);
+    font-family: 'Open Sans Condensed', sans-serif;    
 }
 .title{
     font-family: 'Open Sans Condensed', sans-serif;
@@ -33,7 +34,7 @@ body{
 
 
     .title{
-        font-family: 'Montserrat Subrayada', sans-serif;
+        font-family: 'Open Sans Condensed', sans-serif;
         color:rgba(255,255,255);
         font-size: 4rem;
         
@@ -48,12 +49,27 @@ body{
     display:flex;
    flex-wrap: wrap;
     justify-content: flex-end;
-    padding:4rem;
+    padding:4em;
 }
 hr{
     width:12rem;
 }
-.img{
-    max-width:10px;
+h2{
+    font-size:4rem;
+    margin: 1em;
 }
+.img{
 
+}
+.subhead{
+    color:rgba(255,255,255);
+    font-size: 1.4rem;
+    line-height: 2.2rem;
+
+}
+.subhead::first-letter {
+    initial-letter: 2;
+    font-size: 4em;
+    color: #40dd62;
+    margin: 0.1em .1em 0 0;
+}
