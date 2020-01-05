@@ -39,6 +39,10 @@ body{
         
     }
 }
+.subtitle{
+    font-family: 'Montserrat Subrayada', sans-serif;
+    color:rgba(255,255,255);
+}
 
 .container-image{
     display:flex;
