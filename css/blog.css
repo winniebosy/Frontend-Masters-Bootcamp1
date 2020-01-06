@@ -28,7 +28,13 @@ body{
     color:rgba(255,255,255);
     font-size: 7rem;
 }
-    
+   
+@media(max-width:720px){
+    .navbar-menu,.navbar-end{
+        background-color: #11101185;
+
+    }
+}
 /* for screens with a max width of 720px */
 @media(max-width:720px){
 
@@ -74,3 +80,4 @@ h2{
     color: #40dd62;
     margin: 0.1em .1em 0 0;
 }
+
