@@ -31,6 +31,16 @@ aside {
 	flex-basis: 33%;
 }
 
+p{
+	margin: 2rem 0 0 0;
+}
+
+fieldset {
+	border: 2px solid black;
+	border-radius: 10px;
+	margin-bottom: 2rem;
+
+}
 
 
 
