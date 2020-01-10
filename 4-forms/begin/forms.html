@@ -16,7 +16,7 @@
 			<fieldset>
 				<legend>Your contact information</legend>
 				<label for ="name">Your name </label>
-					<input type="text" id-"name" name="fullname" autofocus>
+					<input type="text" id="name" name="fullname" autofocus>
 
 				<label for ="phone">Phone</label>
 			<input type="tel" id="phone" name="phone" autofocus>
@@ -59,11 +59,16 @@
 				</label>
 				
 			<label for ="abdtype">What type of abduction experience do you want?</label>
-				<select id ="abdtype">
-					<option value="Tour">Tour of the solar system</option>
+				<select id ="abdtype" name="abdtype">
+					<option selected> Select one...</option>
+
+					<option value="tour">Tour of the solar system</option>
+
 					<option value ="dinner">Alien dinner and discussion</option>
-					<option value='dance'>Alien dance lessons</option>
-					<option value='whale'>Whale watching</li>
+
+					<option value="dance">Alien dance lessons</option>
+
+					<option value="whale">Whale watching</li>
 				</select>
 			
 
