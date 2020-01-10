@@ -8,6 +8,7 @@ body {
 	font-family: Arial, Helvetica, sans-serif;
 	margin: 0;
 	padding: 0;
+	background: url("/4-forms/begin/img/galaxy.jpg")
 }
 .wrapper {
 	width: 80%;
