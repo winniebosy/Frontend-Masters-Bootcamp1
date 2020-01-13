@@ -10,4 +10,6 @@ body {
 }
 .wrapper {
     width: 400px;
+    background-color:black;
+    color:white;
 }
