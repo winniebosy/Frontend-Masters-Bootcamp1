@@ -16,5 +16,6 @@ body {
 .screen {
     text-align: right;
     font-family: 'Courier New', Courier, monospace;
-    padding: 20px 5px;
+    padding: 1.2rem 0.3rem;
+    font-size:2rem;
 }
