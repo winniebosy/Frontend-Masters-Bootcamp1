@@ -25,3 +25,7 @@ body {
     justify-content: space-between;
 
 }
+.calc-button{
+    background-color: #d8d9db;
+    color: black;
+}
