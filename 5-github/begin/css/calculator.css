@@ -28,4 +28,8 @@ body {
 .calc-button{
     background-color: #d8d9db;
     color: black;
+    border:none;
+    font-size:2rem;
+    height:5rem;
+    flex-basis:24.5%;
 }
