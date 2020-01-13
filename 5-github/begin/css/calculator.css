@@ -12,6 +12,9 @@ body {
     width: 400px;
     background-color:black;
     color:white;
+    margin: auto;
+    margin-top: 1rem;
+
 }
 .screen {
     text-align: right;
