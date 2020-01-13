@@ -47,3 +47,12 @@ body {
 .triple{
     flex-basis:74.7%;
 }
+.calc-button:last-child{
+    background-color:#df974c;
+    color:white;
+}
+
+.calc-button:last-child:hover {
+    background-color : #dd8d37;
+    color:white;
+}
