@@ -21,6 +21,16 @@ const num = 5;
 
 console.log(num + 12 );
 
+//conditionals
+
+const isSkyBlue ="true";
+
+if(isSkyBlue){
+    console.log('Yay! The sky is blue')
+}
+else{
+    console.log('Sky aint blue');
+}
 
 
   
