@@ -33,4 +33,18 @@ else{
 }
 
 
+//equality comparisons
+
+if(2 + 2 == '4'){
+    console.log('Math still works');
+} else{
+    console.log('It doesnt');
+}
+
+
+if(2 + 2 ==='4'){
+    console.log('Math still works');
+} else{
+    console.log('It doesnt');
+}
   
