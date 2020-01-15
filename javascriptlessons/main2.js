@@ -11,4 +11,7 @@ const sentence = `Hello ${firstName} ${lastName} how are you?`;
 
 console.log(sentence)
 
+ const mySkyBlue ="true";
 
+ console.log(mySkyBlue);
+  
