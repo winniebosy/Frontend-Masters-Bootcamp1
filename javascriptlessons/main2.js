@@ -47,4 +47,22 @@ if(2 + 2 ==='4'){
 } else{
     console.log('It doesnt');
 }
+
+
+ if(0.2 +0.1 === 0.3){
+     console.log('true');
+ }else{
+     console.log('false');
+ }
   
+//else if
+
+const student= 50;
+
+if(student == 30){
+    console.log('There is no learning');
+}else if(student <=50){
+    console.log('Swimming lessons');
+}else{
+    console.log('Go home');
+}
