@@ -66,3 +66,15 @@ if(student == 30){
 }else{
     console.log('Go home');
 }
+
+
+//while loops
+
+let elephant = 0
+
+while(elephant <= 10){
+    console.log(elephant)
+    elephant = elephant + 3;
+}
+console.log(elephant);
+
