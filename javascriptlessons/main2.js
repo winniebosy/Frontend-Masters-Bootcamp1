@@ -55,3 +55,14 @@ if(2 + 2 ==='4'){
      console.log('false');
  }
   
+//else if
+
+const student= 50;
+
+if(student == 30){
+    console.log('There is no learning');
+}else if(student <=50){
+    console.log('Swimming lessons');
+}else{
+    console.log('Go home');
+}
