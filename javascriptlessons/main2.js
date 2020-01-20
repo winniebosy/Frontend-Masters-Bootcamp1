@@ -78,3 +78,17 @@ while(elephant <= 10){
 }
 console.log(elephant);
 
+
+
+
+//exercise
+
+const character = 'a';
+const timesToRepeat = 5;
+let myString = '';
+
+
+for(let i =0; i < timesToRepeat; i++){
+    myString = myString + character;
+}
+console.log(myString);
